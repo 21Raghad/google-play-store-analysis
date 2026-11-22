@@ -19,9 +19,14 @@ This public repository contains the complete data science workflow for analyzing
 
 ## Team Members & Contributions
 
-| Team Member | Primary Role | Key Contributions |
-| :--- | :--- | :--- |
-| **Raghad Saad Jarman** | Data Understanding & Lead | Topic selection, research question & objective, dataset sourcing, environment setup, loading, and initial data inspection. |
-| **Member 2 Name** | Data Engineering & Cleaning | Duplicate & invalid entry removal, numeric formatting cleanup, median imputation, `Install_Tier` transformation, aggregation, and exporting `googleplaystore_cleaned.csv`. |
-| **Member 3 Name** | Data Analysis & Visualization | Statistical summaries, creating and interpreting three visualizations, and formulating evidence-based conclusions and limitations. |
-| **Member 4 Name** | Documentation & Repository Lead | Notebook structuring, end-to-end reproducibility verification, GitHub repository management, `README.md` documentation, and presentation design. |
+* **Raghad Saad Jarman** — *Project Framing & Data Understanding*  
+  Defined the research question and objectives, sourced the Kaggle dataset, configured the Google Colab environment, and performed initial structural and missing-value diagnostics.
+
+* **Member 2 Name** — *Data Cleaning & Preparation*  
+  Standardized numeric fields (`Installs`, `Price`, `Rating`), handled duplicates and missing values, engineered the `Install_Tier` feature, aggregated category metrics, and generated the final cleaned dataset.
+
+* **Member 3 Name** — *Statistical Analysis & Visualization*  
+  Conducted comparative statistical analysis across categories and pricing types, built three labeled visualizations, and authored interpretations, conclusions, and limitations.
+
+* **Member 4 Name** — *Reproducibility, GitHub & Presentation*  
+  Verified end-to-end notebook execution, structured the public GitHub repository, authored project documentation (`README.md`), and aligned presentation slides with course CLOs.
