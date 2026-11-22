@@ -17,8 +17,11 @@ This public repository contains the complete data science workflow for analyzing
 2. **Data Cleaning and Preparation:** Removed duplicates and invalid entries (`Category == '1.9'`), cleaned numeric symbols (`+`, `,`, `$`), imputed missing `Rating` values using the median, applied transformation (`Install_Tier`) and aggregation (`Category` and `Type`), and saved `googleplaystore_cleaned.csv`.
 3. **Analysis and Visualizations:** Summarized install and rating metrics and produced three visualizations (top 10 categories by total installs, rating distribution across Free vs. Paid apps, and app counts across install tiers) with written interpretations, conclusions, and limitations.
 
-## Team Contributions
-- **RAGHAD SAAD:** Topic selection, research question and objective, dataset sourcing, environment setup, loading, and initial data understanding.
-- **MANAL MOHAMMED:** Data cleaning, error handling, transformation (`Install_Tier`), aggregation, and saving the final cleaned dataset.
-- **JUDI MAHDI:** Statistical analysis, three visualizations with written interpretations, results, conclusions, and limitations.
-- **MOZON SAEED:** Notebook organization and reproducibility check, `README.md` documentation, GitHub repository management, and presentation preparation.
+## Team Members & Contributions
+
+| Team Member | Primary Role | Key Contributions |
+| :--- | :--- | :--- |
+| **Raghad Saad Jarman** | Data Understanding & Lead | Topic selection, research question & objective, dataset sourcing, environment setup, loading, and initial data inspection. |
+| **Member 2 Name** | Data Engineering & Cleaning | Duplicate & invalid entry removal, numeric formatting cleanup, median imputation, `Install_Tier` transformation, aggregation, and exporting `googleplaystore_cleaned.csv`. |
+| **Member 3 Name** | Data Analysis & Visualization | Statistical summaries, creating and interpreting three visualizations, and formulating evidence-based conclusions and limitations. |
+| **Member 4 Name** | Documentation & Repository Lead | Notebook structuring, end-to-end reproducibility verification, GitHub repository management, `README.md` documentation, and presentation design. |
