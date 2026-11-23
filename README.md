@@ -19,7 +19,7 @@ This public repository contains the complete data science workflow for analyzing
 
 ## Team Members & Contributions
 
-* **Raghad Saad Jarman** — *Project Framing & Data Understanding*  
+* **RAGHAD SAAD JARMAN** — *Project Framing & Data Understanding*  
   Defined the research question and objectives, sourced the Kaggle dataset, configured the Google Colab environment, and performed initial structural and missing-value diagnostics.
 
 * **MANAL MOHAMMED** — *Data Cleaning & Preparation*  
