@@ -1,4 +1,5 @@
 # Google Play Store Apps Data Analysis
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/21Raghad/google-play-store-analysis/blob/main/notebooks/Project_google_Play_Store.ipynb)
 
 ## Overview and Research Question
 This public repository contains the complete data science workflow for analyzing **Google Play Store Apps** data to examine how app ratings (`Rating`) and installation counts (`Installs`) differ across app categories (`Category`) and pricing types (`Type`: Free vs. Paid).
