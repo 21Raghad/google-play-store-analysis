@@ -26,7 +26,7 @@ This public repository contains the complete data science workflow for analyzing
 * **MANAL MOHAMMED** — *Data Cleaning & Preparation*  
   Standardized numeric fields (`Installs`, `Price`, `Rating`), handled duplicates and missing values, engineered the `Install_Tier` feature, aggregated category metrics, and generated the final cleaned dataset.
 
-* **JUDI MAHDI** — *Reproducibility, GitHub & Presentation* 
+* **JUDI MAJRADI** — *Reproducibility, GitHub & Presentation* 
   Verified end-to-end notebook execution, structured the public GitHub repository, authored project documentation (`README.md`), and aligned presentation slides with course CLOs.
 
 * **MOZON SAEED** — *Statistical Analysis & Visualization* 
