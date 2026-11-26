@@ -31,7 +31,3 @@ This public repository contains the complete data science workflow for analyzing
 
 * **MOZON SAEED** — *Statistical Analysis & Visualization* 
   Conducted comparative statistical analysis across categories and pricing types, built three labeled visualizations, and authored interpretations, conclusions, and limitations.
-JUDI MAJRADI
-JUDI MAJRADI
-JUDI MAJRADI
-
